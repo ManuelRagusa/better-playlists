@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 let defaultStyle = {
-  color: 'black'
+  color: '#fff'
 };
 
 class Aggregate extends Component {
